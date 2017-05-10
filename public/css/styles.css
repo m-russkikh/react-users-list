@@ -1,0 +1,25 @@
+.home-page {
+	margin-left: 20px;
+}
+
+.data-list-item {
+	padding: 0.6em;
+	display: flex;
+	border-bottom: 1px solid #bbb;
+}
+
+.data-list-item .details {
+	flex: 1;
+}
+
+.toolbar {
+	margin-bottom: 15px;
+}
+
+.toolbar button {
+	margin: 0 10px 10px 0;
+}
+
+.form .text-right button:last-child{
+	margin-left: 10px;
+}
